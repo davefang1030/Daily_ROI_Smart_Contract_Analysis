@@ -1,5 +1,5 @@
 # Daily ROI Smart Contracts Analysis
-On-chain analytics on some of the daily ROI contracts on fantom and polygon networks. #on-chain-analytics #daily-roi #smart-contract #ftm #matic
+On-chain analytics on some of the daily ROI contracts on fantom and polygon networks. #on-chain-analytics #daily-roi #smart-contract #ftmscan #polygonscan
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
